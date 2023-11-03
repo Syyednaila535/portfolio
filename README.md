@@ -3,4 +3,4 @@ Welcome to my Portfolio Website! This site showcases my work and projects, provi
 # Output
 ![portf](https://github.com/Syyednaila535/Portfolio/assets/130342468/fa934b70-fc95-482d-a838-d0582e0948f4)
 # Project link
-https:syyednaila535.github.io/Portfolio/
+https://syyednaila535.github.io/Portfolio/
